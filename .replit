@@ -1,2 +1,2 @@
 language = "python3"
-run = "python  basics/claire.py"
+run = "python  basics/decisions/simple_decisions/if.py"

@@ -1,0 +1,6 @@
+print("Enter the number of lives")
+lives = input()
+print("Enter energy level")
+energy = input()
+print("Enter shield level")
+shield = input()
